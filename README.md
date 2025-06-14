@@ -11,23 +11,6 @@ Este repositorio contiene mi portfolio personal desarrollado como parte de la **
 - Git + GitHub
 - GitHub Pages para publicación
 
-## 📁 Estructura del proyecto
-
-portfolio/
-├── index.html # redirección a /pages
-├── pages/
-│ ├── index.html # página principal
-│ ├── about.html # sobre mí
-│ ├── projects.html # proyectos
-│ └── contact.html # formulario
-├── styles/
-│ └── style.css # estilos avanzados
-├── img/
-│ ├── proyecto1.jpg
-│ ├── proyecto2.jpg
-│ └── proyecto3.jpg
-├── README.md
-
 ## 💻 ¿Cómo visualizarlo?
 
 Podés acceder al portfolio en línea a través de GitHub Pages:  
