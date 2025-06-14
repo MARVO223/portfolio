@@ -18,6 +18,11 @@ Podés acceder al portfolio en línea a través de GitHub Pages:
 
 O también descargar el ZIP y abrir `pages/index.html` en tu navegador local.
 
+## 👤 Autor
+
+Desarrollado por **Ignacio Carugatti** como parte del curso.  
+Este trabajo refleja la aplicación completa de los temas vistos en clase, integrando estructura web, estilo visual avanzado y despliegue en la web.
+
 ## 🎯 Características destacadas
 
 - Diseño moderno y responsivo
