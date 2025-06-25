@@ -1,13 +1,14 @@
-# 🌐 Portfolio Web - Entrega 2
+# 🌐 Portfolio Web - Entrega 3
 
-Este repositorio contiene mi portfolio personal desarrollado como parte de la **Entrega 2** del curso. El objetivo fue aplicar conocimientos de HTML, CSS, diseño responsivo y control de versiones con Git y GitHub.
+Este repositorio contiene mi portfolio personal desarrollado como parte de la **Entrega 3** del curso. El objetivo fue aplicar conocimientos avanzados en diseño responsive, animaciones, arquitectura SCSS y control de versiones con Git y GitHub.
 
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5 semántico
-- CSS3 con propiedades avanzadas
+- SCSS (SASS) con arquitectura modular
 - Bootstrap 5
 - Flexbox y Grid
+- Animaciones con AOS.js y CSS
 - Git + GitHub
 - GitHub Pages para publicación
 
@@ -20,9 +21,14 @@ O también descargar el ZIP y abrir `pages/index.html` en tu navegador local.
 
 ## 🎯 Características destacadas
 
-- Diseño moderno y responsivo
-- Navegación fluida entre páginas
-- Estilo visual consistente con paleta propia
-- Animaciones al pasar el mouse sobre elementos
-- Formulario con validación HTML
-- Publicación en línea usando GitHub Pages
+- Diseño moderno, limpio y totalmente **responsive**
+- Animaciones de entrada suaves con **AOS.js**
+- **Modal informativo** con fondo desenfocado al hacer clic en proyectos
+- Estructura SCSS profesional con:
+  - Variables, mixins, nesting, media queries
+  - Organización modular (`utils/`, `layout/`, `components/`, etc.)
+- Paleta de colores personalizada y accesible
+- Navegación fluida entre secciones
+- Efectos `hover`, `fade`, `zoom`, `blur`, y `scroll`
+
+## 📁 Estructura del proyecto
