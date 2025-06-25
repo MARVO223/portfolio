@@ -8,6 +8,7 @@
   <!-- conexion desde el index.html a mi "CSS" -->
   <link rel="stylesheet" href="styles/style.css" />
   <title>Sobre mí</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
 </head>
 <body>
 
@@ -34,7 +35,7 @@
   <h2 class="text-center mb-4">Sobre mí</h2>
   <div class="row align-items-center">
     <div class="col-md-4 text-center mb-4 mb-md-0">
-      <img src="../img/proyecto1.jpg" class="rounded-circle img-fluid shadow" alt="Tu Foto">
+      <img src="../img/proyecto1.jpg" class="rounded-circle img-fluid shadow about-img-hover" alt="Tu Foto">
     </div>
     <div class="col-md-8">
       <p>¡Hola! Soy un apasionado desarrollador web enfocado en crear experiencias digitales atractivas y funcionales. Me especializo en frontend, combinando diseño con código limpio y accesible.</p>
@@ -44,11 +45,14 @@
   </div>
 </div>
 
-<footer class="bg-dark text-white text-center py-4 mt-5">
+
+<footer data-aos="fade-up" class="bg-dark text-white text-center py-4 mt-5">
   <div class="container">
     <p class="mb-0">© 2025 Mi Portfolio. Todos los derechos reservados.</p>
   </div>
 </footer>
 
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script src="../js/main.js"></script>
 </body>
 </html>
