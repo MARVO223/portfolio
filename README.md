@@ -30,5 +30,3 @@ O también descargar el ZIP y abrir `pages/index.html` en tu navegador local.
 - Paleta de colores personalizada y accesible
 - Navegación fluida entre secciones
 - Efectos `hover`, `fade`, `zoom`, `blur`, y `scroll`
-
-## 📁 Estructura del proyecto
